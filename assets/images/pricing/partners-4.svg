@@ -1,0 +1,6 @@
+<svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+<line x1="6" y1="20" x2="34" y2="20" stroke="#888" stroke-width="4"/>
+<circle cx="6" cy="20" r="4" fill="#888"/>
+<circle cx="34" cy="20" r="4" fill="#888"/>
+<text x="45" y="25" font-family="Arial" font-size="16" fill="#888">PowerLift</text>
+</svg>

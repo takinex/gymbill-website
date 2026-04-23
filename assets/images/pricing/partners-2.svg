@@ -1,0 +1,6 @@
+<svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="10" width="8" height="20" fill="#888"/>
+<rect x="26" y="10" width="8" height="20" fill="#888"/>
+<rect x="14" y="16" width="12" height="8" fill="#888"/>
+<text x="45" y="25" font-family="Arial" font-size="16" fill="#888">Titan Gym</text>
+</svg>
